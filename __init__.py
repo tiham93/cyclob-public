@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Cyclob - Object Cycler",
+    "name": "Cyclob - LP Object Cycler",
     "author": "Long Phan",
     "version": (1, 0, 0),
     "blender": (3, 6, 0),
