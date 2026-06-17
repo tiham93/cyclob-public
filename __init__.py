@@ -1,7 +1,7 @@
 bl_info = {
-    "name": "Cyclob - LP Object Cycler - testing",
+    "name": "Cyclob - Object Cycler",
     "author": "Long Phan",
-    "version": (0, 1, 0),
+    "version": (1, 0, 0),
     "blender": (3, 6, 0),
     "location": "LP Tools > Cyclob",
     "description": "Cycle through and focus on each object in selection",
